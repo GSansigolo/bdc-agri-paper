@@ -15,6 +15,9 @@ Este repositório está organizado da seguinte forma:
 - `src`: contém os códigos do artigo
 - `data/raw`: contém os dados de entrada do experimento
 - `data/output`: contém os resultados do experimento
+- `conda-environment-*.txt`: contém os arquivos com as especificações para criação dos ambientes Conda
+
+Para a execução dos códigos do artigo, recomenda-se utilizar o gerenciador de ambientes [Conda](https://www.anaconda.com/download).
 
 ## Contato
 
