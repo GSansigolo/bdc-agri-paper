@@ -6,7 +6,9 @@
 ![License](https://img.shields.io/badge/license-MIT-blue)
 <!-- badges: end -->
 
-Este repositório contém o código, os dados e os resultados do artigo **Construindo uma plataforma aberta para monitoramento agrícola em larga escala**.
+Este repositório contém o código do artigo **Construindo uma plataforma aberta para monitoramento agrícola em larga escala**.
+
+**Repositório de dados** - https://doi.org/10.57760/sciencedb.0150c
 
 ## Estrutura de diretórios
 
